@@ -6,6 +6,6 @@ Meu nome é Anderson Vidal e sou estudante de Sistemas de Informação. Também 
 - 🌱 Atualmente, estou aprendendo Python e Java.
 - 💬 Pergunte-me sobre tecnologia, programação ou qualquer coisa relacionada!
 - 📫 Você pode entrar em contato comigo pelo email: anderson.vidal2017@hotmail.com.
-- 😄 Pronouns: ele/dele
+  
   
 Vamos conectar? 😊
