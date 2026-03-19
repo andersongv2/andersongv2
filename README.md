@@ -17,7 +17,6 @@ Sou estudante de **Sistemas de Informação** com uma paixão crescente por cibe
 
 Busco oportunidade de estágio ou trainee na área de Tecnologia da Informação, com interesse em Cibersegurança e Segurança da Informação. Estou construindo minha trajetória com base sólida em redes, Python e segurança digital por meio dos cursos da Cisco NetAcad e da graduação em Sistemas de Informação. Meu objetivo é aplicar o que aprendo na prática, contribuir para o crescimento da empresa e evoluir profissionalmente na área de TI.
 
-
 Acredito que **aprendizado e colaboração** são fundamentais para crescer nessa área — e aqui você vai encontrar projetos que fiz do zero, entendendo cada detalhe.
 
 ---
@@ -28,7 +27,6 @@ Acredito que **aprendizado e colaboração** são fundamentais para crescer ness
 🔐 Cybersecurity     ██████████░░░░░░  Em andamento
 🐍 Python            ███████░░░░░░░░░  Em andamento
 🌐 Redes (Cisco)     ████████░░░░░░░░  Em andamento
-☕ Java              █████░░░░░░░░░░░  Base adquirida na faculdade
 ```
 
 ---
@@ -48,7 +46,6 @@ Acredito que **aprendizado e colaboração** são fundamentais para crescer ness
 **Linguagens**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 
 **Redes & Segurança**
