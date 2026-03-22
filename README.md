@@ -2,7 +2,7 @@
 
 # Olá, eu sou o Anderson Vidal! 👋
 
-### Estudante de Sistemas de Informação | Redes • Python • Cybersecurity
+### Estudante de Sistemas de Informação | Futuro especialista em Cibersegurança
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-vidal-gv/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:anderson.vidal2017@hotmail.com)
@@ -15,7 +15,7 @@
 
 Sou estudante de **Sistemas de Informação** com uma paixão crescente por cibersegurança. Atualmente estou mergulhado em cursos na **Cisco NetAcad**, aprendendo sobre Python, redes e tudo que envolve a segurança digital.
 
-Busco oportunidade de estágio ou trainee na área de Tecnologia da Informação, com interesse em Cibersegurança e Segurança da Informação. Estou construindo minha trajetória com base sólida em redes, Python e segurança digital por meio dos cursos da Cisco NetAcad e da graduação em Sistemas de Informação. Meu objetivo é aplicar o que aprendo na prática, contribuir para o crescimento da empresa e evoluir profissionalmente na área de TI.
+Meu objetivo é me tornar um **especialista em cibersegurança** e contribuir para um futuro mais seguro no mundo digital. Estou sempre em busca de oportunidades de estágio e projetos que me permitam colocar o que aprendi em prática.
 
 Acredito que **aprendizado e colaboração** são fundamentais para crescer nessa área — e aqui você vai encontrar projetos que fiz do zero, entendendo cada detalhe.
 
@@ -24,7 +24,7 @@ Acredito que **aprendizado e colaboração** são fundamentais para crescer ness
 ## 🎯 Foco atual
 
 ```text
-🔐 Cybersecurity     ██████████░░░░░░  Em andamento
+🔐 Cybersecurity     ████████████████  Concluído ✅
 🐍 Python            ███████░░░░░░░░░  Em andamento
 🌐 Redes (Cisco)     ████████░░░░░░░░  Em andamento
 ```
@@ -35,7 +35,7 @@ Acredito que **aprendizado e colaboração** são fundamentais para crescer ness
 
 | Certificação | Instituição | Status |
 |---|---|---|
-| 🛡️ Introduction to Cybersecurity | Cisco NetAcad | 🔄 Em andamento |
+| 🛡️ Introduction to Cybersecurity | Cisco NetAcad | ✅ Concluído |
 | 🌐 Networking Basics | Cisco NetAcad | 🔄 Em andamento |
 | 🐍 Python Essentials | Cisco NetAcad | 🔄 Em andamento |
 
