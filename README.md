@@ -15,7 +15,8 @@
 
 Sou estudante de **Sistemas de Informação** com uma paixão crescente por cibersegurança. Atualmente estou mergulhado em cursos na **Cisco NetAcad**, aprendendo sobre Python, redes e tudo que envolve a segurança digital.
 
-Meu objetivo é me tornar um **especialista em cibersegurança** e contribuir para um futuro mais seguro no mundo digital. Estou sempre em busca de oportunidades de estágio e projetos que me permitam colocar o que aprendi em prática.
+Busco oportunidade de estágio ou trainee na área de Tecnologia da Informação, com interesse em Cibersegurança e Segurança da Informação. Estou construindo minha trajetória com base sólida em redes, Python e segurança digital por meio dos cursos da Cisco NetAcad e da graduação em Sistemas de Informação. Meu objetivo é aplicar o que aprendo na prática, contribuir para o crescimento da empresa e evoluir profissionalmente na área de TI.
+
 
 Acredito que **aprendizado e colaboração** são fundamentais para crescer nessa área — e aqui você vai encontrar projetos que fiz do zero, entendendo cada detalhe.
 
